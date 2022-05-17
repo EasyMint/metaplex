@@ -4,6 +4,7 @@ import { Layout } from 'antd';
 import { AppBar } from '../AppBar';
 // eslint-disable-next-line @typescript-eslint/no-unused-vars
 import { Footer } from '../Footer';
+import { ArtContent } from '../ArtContent';
 
 const { Header, Content } = Layout;
 
@@ -28,7 +29,8 @@ export const AppLayout = React.memo(function AppLayoutImpl(props: any) {
             {props.children}
           </Content>
         </Layout>
-        {/*<Footer />*/}
+        <Footer />
+        <ArtContent />
       </Layout>
     </>
   );

@@ -17,7 +17,7 @@ export const ModalLayout: React.FC<ModalProps> = ({
       onCancel={onClose}
       footer={null}
       visible={isModalVisible}
-      closeIcon={<img src={'/modals/close.svg'} />}
+      closeIcon={<img src={'./metaplex/modals/close.svg'} />}
     >
       {children}
     </Modal>

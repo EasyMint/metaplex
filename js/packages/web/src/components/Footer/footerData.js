@@ -9,11 +9,11 @@ export const footerConf = {
       links: [
         {
           label: 'About',
-          url: 'www.solana.com',
+          url: '#',
         },
         {
           label: 'Terms of service',
-          url: 'www.solana.com',
+          url: '#',
         },
       ],
     },
@@ -22,19 +22,19 @@ export const footerConf = {
       links: [
         {
           label: 'FAQ',
-          url: 'www.solana.com',
+          url: '#',
         },
         {
           label: 'Support',
-          url: 'www.solana.com',
+          url: '#',
         },
         {
           label: 'Privacy policy',
-          url: 'www.solana.com',
+          url: '#',
         },
         {
           label: 'Your purchases',
-          url: 'www.solana.com',
+          url: '#',
         },
       ],
     },
@@ -43,15 +43,15 @@ export const footerConf = {
       links: [
         {
           label: 'Instagram',
-          url: 'www.solana.com',
+          url: '#',
         },
         {
           label: 'Twitter',
-          url: 'www.solana.com',
+          url: '#',
         },
         {
           label: 'Discord',
-          url: 'www.solana.com',
+          url: '#',
         },
       ],
     },

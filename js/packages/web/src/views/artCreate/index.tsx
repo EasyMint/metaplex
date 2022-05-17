@@ -741,7 +741,7 @@ const InfoStep = (props: {
                 setSelected={items => {
                   setSelectedCollection(items);
                 }}
-                allowMultiple={false}
+                allowMultiple={true}
               >
                 Select NFT
               </ArtSelector>
